@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Juego</string>
+    <string name="juego_jaime_diaz">Juego Jaime Diaz</string>
+    <string name="has_perdido_campeon">Has perdido campeon</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="puntuacion">Puntuacion:</string>
+</resources>
